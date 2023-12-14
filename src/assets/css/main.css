@@ -1,0 +1,23 @@
+#app {
+  font-family: 'Poppins', sans-serif;
+}
+
+.router-link-exact-active {
+  font-weight: bold;
+}
+
+.card-product {
+  border-radius: 15px;
+}
+
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  height: 15vw;
+  object-fit: cover;
+}
+.img-keranjang {
+ border-radius: 15px;
+  height: 15vh;
+  object-fit: cover;
+}
